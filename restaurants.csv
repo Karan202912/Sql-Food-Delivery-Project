@@ -1,0 +1,16 @@
+restaurant_id,restaurant_name,cuisine_type,city,rating
+1,Spice 1,Italian,Delhi,4.5
+2,Biryani 2,South Indian,Pune,3.9
+3,Tandoor 3,Italian,Delhi,4.0
+4,Pizza 4,Fast Food,Delhi,4.6
+5,Pizza 5,Fast Food,Pune,4.9
+6,Biryani 6,Italian,Delhi,3.3
+7,Biryani 7,South Indian,Delhi,3.2
+8,Curry 8,Fast Food,Bengaluru,3.7
+9,Cafe 9,South Indian,Hyderabad,3.8
+10,Dosa 10,Fast Food,Delhi,4.4
+11,Spice 11,Fast Food,Pune,4.7
+12,Cafe 12,Fast Food,Pune,3.9
+13,Grill 13,North Indian,Pune,3.3
+14,Biryani 14,North Indian,Pune,3.5
+15,Spice 15,Chinese,Mumbai,3.2
